@@ -5,6 +5,6 @@
    |_|    \__,_| |_| |_| |_|  \___/    |____/  |_|  \___/   \__, |
                                                             |___/
 
-   Blog: http://tycoding.cn
-   Github: https://github.com/tycoding
-   QQ group: 671017003
+   Blog:
+   Github: https://github.com/
+   QQ group: 0000
